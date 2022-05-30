@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://IlliaBezditnyi.github.io/<repo_name>/)
+# NAMU museum landing page
+- [DEMO LINK](https://IlliaBezditnyi.github.io/<repo_name>/)
+- [Figma design](https://www.figma.com/file/HL3XGt5ZatvJoYBhOaWY5x/museum-prototype?node-id=323%3A1957/)
